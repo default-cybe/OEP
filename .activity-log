@@ -234,3 +234,4 @@
 [2015-09-08T22:49:31] Fix formatting (#234)
 [2015-09-09T10:38:11] Add tests (#235)
 [2015-09-09T23:51:58] Refactor code (#236)
+[2015-09-12T16:32:36] Add error handling (#237)
