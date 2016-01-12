@@ -362,3 +362,4 @@
 [2016-01-10T16:54:53] Refactor utils (#362)
 [2016-01-10T19:08:37] Add logging (#363)
 [2016-01-11T14:58:19] Add comments (#364)
+[2016-01-11T20:05:27] Add error handling (#365)
