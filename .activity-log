@@ -1651,3 +1651,4 @@
 [2018-12-31T08:01:18] Refactor utils (#1651)
 [2018-12-31T17:34:44] Update deps (#1652)
 [2018-12-31T20:53:13] Add validation (#1653)
+[2019-01-02T19:02:47] Add error handling (#1654)
