@@ -2233,3 +2233,4 @@
 [2020-08-21T18:03:18] Fix formatting (#2233)
 [2020-08-21T23:36:39] Add error handling (#2234)
 [2020-08-22T22:01:40] Refactor utils (#2235)
+[2020-08-24T09:36:18] Add validation (#2236)
