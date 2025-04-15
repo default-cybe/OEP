@@ -1,0 +1,15 @@
+# Local Firebase configuration (holds real project keys)
+firebase-config.js
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
